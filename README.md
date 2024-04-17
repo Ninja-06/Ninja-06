@@ -46,7 +46,7 @@
 
 ## Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ninja-06&show_icons=true&theme=github_dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ninja-06&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ninja-06&theme=github-dark-blue)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja-06&layout=donut-vertical&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
