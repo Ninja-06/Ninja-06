@@ -1,6 +1,6 @@
 
                                                              
-<h2 align="center">Hi there 👋 <br><br><img src="https://komarev.com/ghpvc/?username=Ninja-06&label=Profile_Views" alt="Profile Views"> </h1>
+<h2 align="center">Hi there 👋!  <br><br><img src="https://komarev.com/ghpvc/?username=Ninja-06&label=Profile_Views" alt="Profile Views"> </h1>
 
 
 <br>
